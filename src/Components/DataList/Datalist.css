@@ -1,0 +1,9 @@
+.data
+{
+	/*background-color: blue;*/
+	width:auto;
+	overflow:scroll; 
+	height:500px;
+	
+	padding-left: 10px;
+}
